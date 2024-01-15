@@ -1,0 +1,5 @@
+COLOCAR classificação dentro de equipamentos junto com padrões 
+indicar um relacionamento de equipamento com ele mesmo através de uma chave estrangeira para ajudar em qual equipamento e padrão 
+colocar um campo calibração dentro de equipamento para definir se o equipamento precisa ou não de cal e se precisa se é externa ou interna 
+o modelo de certificado deve ficar dentro da tabela certificado de calibração 
+um equipamento vai ter várias medidas e várias medidas estarão em vários equipamentos. Resumindo criar 1 relacionamento de equipamento com a tabela de instruções
